@@ -1,0 +1,1450 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall poysonous and sedicious papers of Mr. David Jenkins ansvvered. By H.P. barrester of Lincolnes Inne.</title>
+            <author>Parker, Henry, 1604-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91355</idno>
+            <idno type="STC">Wing P422</idno>
+            <idno type="STC">Thomason E393_8</idno>
+            <idno type="STC">ESTC R201592</idno>
+            <idno type="EEBO-CITATION">99862091</idno>
+            <idno type="PROQUEST">99862091</idno>
+            <idno type="VID">160300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160300)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall poysonous and sedicious papers of Mr. David Jenkins ansvvered. By H.P. barrester of Lincolnes Inne.</title>
+                  <author>Parker, Henry, 1604-1652.</author>
+                  <author>Jenkins, David, 1582-1663. Vindication of Judge Jenkins prisoner in the Tower, the 29. of Aprill, 1647.</author>
+                  <author>Jenkins, David, 1582-1663. Cordiall of Judge Jenkins, for the good people of London.</author>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock dwelling in Pauls Church yard, at the signe of the Kings Head.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.P. = Henry Parker.</note>
+                  <note>Includes "The vindication of Judge Jenkins prisoner in the Tower, the 29. of Aprill, 1647" (Wing J613), and "The reply of Judge Jenkins to Mr. H.P.", a reprinting of "The cordiall of Judge Jenkins, for the good people of London" (Wing J586).</note>
+                  <note>Annotation on Thomason copy: "arker" inserted after H.P.; "June 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jenkins, David, 1582-1663 --  Imprisonment --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160300:1" rendition="simple:additions"/>
+            <p>SEVERALL
+POYSONOUS
+AND
+SEDICIOUS
+PAPERS
+OF
+Mr. DAVID JENKINS
+ANSVVERED.</p>
+            <p>
+               <hi>By</hi> H. P. <hi>BARRESTER of</hi>
+Lincolnes Inne.</p>
+            <p>LONDON:
+Printed for <hi>Robert Boſtock</hi> dwel<g ref="char:EOLhyphen"/>ling
+in <hi>Pauls</hi> Church yard, at the Signe
+of the Kings Head. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:160300:2"/>
+            <pb n="1" facs="tcp:160300:2"/>
+            <head>THE
+VINDICATION
+OF
+JUDGE JENKINS
+Priſoner in the TOWER, <date>the 29. of
+April, 1647.</date>
+            </head>
+            <div type="letter">
+               <p>I Was convened upon Saturday the 10. of this moneth of
+<hi>April</hi> before a Committee of the Houſe of <hi>Commons,</hi> where<g ref="char:EOLhyphen"/>in
+Mr <hi>Corbet</hi> had the Chair; and I was there to be exami<g ref="char:EOLhyphen"/>ned
+upon ſome Queſtions then to be propounded to me; to
+which Queſtions I refuſed to give any other Anſwer then that
+which was ſet down in a paper I then delivered to the ſaid Mr.
+<hi>Corbet,</hi> which followeth in theſe words.</p>
+               <p>Gentlemen, I ſtand committed by the Houſe of <hi>Commons</hi> for
+high Treaſon, fo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not acknowledgin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, nor obeyin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Power
+of the two Houſes, by adhering to the king in this War. I deny
+this to b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Treaſon; For the ſupreame and onely Power by the
+Laws of the Land is in the king. If I ſhould ſub<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it to any exa<g ref="char:EOLhyphen"/>min<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion
+derived from your Power, which by the Ne<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ative oath
+ſtands in oppoſition to the Kings Powe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I ſhould conteſſe the
+Power to be in you, and ſo condemne my <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for a Traytor,
+which I neither ought no<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will do.</p>
+               <p>I am ſworn to obey the King, and the Laws of this Land: you
+have not power to examine m<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Laws, but by the Kings
+Writ, Pattent, or Commiſſion; if yo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ca<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> produce of her there<g ref="char:EOLhyphen"/>of,
+I will anſwer the que<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ions you ſhall p<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pound; ot<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wiſe I
+cannot anſwer thereto, without the breach of my Oath, and the
+violation of the Laws, which I wil<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not do to ſave my life.</p>
+               <p>You your ſelves, all of you this Parliamen<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, have ſworn that
+the King is our onely and ſupreme Governor: you<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Proteſtation,
+<pb n="2" facs="tcp:160300:3"/>
+your Vow and Covenant, your ſolemn League and Covenant,
+your Declarations, all of them publiſh to the Kingdom, that
+your ſcope is the maintenance of the Laws; thoſe Laws are and
+muſt be derived to us, and enlivened by the onely ſupreme Go<g ref="char:EOLhyphen"/>vernor,
+the Fountain of juſtice, and the life of the Law, the King.
+The Parliaments are called by his Writs; the Judges ſit by his
+Pattents, ſo of all other Officers; the Cities and Towns corpo<g ref="char:EOLhyphen"/>rate,
+govern by the Kings Charters; and therefore ſince by the
+Law I cannot be examined by you, without a power derived by
+His Majeſty, I neither can, nor will, nor ought you to examine
+me upon any queſtions. But if as private Gentlemen, you ſhall
+be pleaſed to ask me any queſtions, I ſhall really and truly an<g ref="char:EOLhyphen"/>ſwer
+every ſuch queſtion, as you ſhall demand.</p>
+               <closer>
+                  <dateline>
+                     <date>April 10. 1647.</date>
+                  </dateline>
+                  <signed>David Jenkins.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>This paper hath been miſrepreſented to the good people of
+this City by a printed one, ſtyling it my Recantation, which I
+own not; and beſides is in it ſelf repugnant (juſt like theſe times)
+the Body fals out with the Head. To vindicate my ſelf from that
+Recantation, and to publiſh to the world the realitie of the pa<g ref="char:EOLhyphen"/>per
+then delivered to Mr. <hi>Corbet,</hi> and the matter therein con<g ref="char:EOLhyphen"/>tained,
+I have publiſhed this enſuing Diſcourſe.</p>
+               <p>No perſon who hath committed Treaſon, Murther, or Felony,
+hath any aſſurance at all for ſo much as one houre of life, lands
+or goods, without the Kings gracious pardon. 27 <hi>H. 8. ca.</hi> 24.</p>
+               <p>The King is not virtually in the two Houſes at <hi>Westminster,</hi>
+whereby they may give any aſſurance at all to any perſon, in
+any thing, for any ſuch offence.</p>
+               <p>1. The Houſe of Commons hath declared to the Kingdom in
+their Declaration of the 28. of <hi>November</hi> laſt to the <hi>Scots</hi> Papers,
+<hi>pa. 8. That the King at this time is not in a condition to govern.</hi> No per<g ref="char:EOLhyphen"/>ſon
+or thing can derive a vertue to other men, or things, which
+it ſelf hath not: and therefore it is impoſſible that they ſhould
+have a vertue from the King to govern, which they, declare he
+hath not himſelf to give.</p>
+               <p>2. The Law of the Land is,<note place="margin">
+                     <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Eliz. c. 1.</note> 
+                  <hi>That no perſon in any Parliament
+<pb n="3" facs="tcp:160300:3"/>
+hath a voice in the H<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe of Commons, but that he ſtands a perſon to all
+intents and purp<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſes as if he had never been elected or returned, if before
+he ſit in the Houſe, he take not his Oath upon the holy Evangelists, that the
+Kings Majeſty is the onely and ſupreme Governour over all perſons in all
+Cauſes.</hi> All the Members of the ſaid Houſe have taken it, and at
+all times as they are returned do take it; otherwiſe they have no
+colour to intermeddle with the publick<g ref="char:punc">▪</g> Affairs. How doth this
+ſolemn and legall Oath agree with their ſaid Declaration, <hi>That
+the King is in no condition to govern.</hi> By the one it is ſworn, He is
+the onely ſupreme Governor; by the other that he is not in a
+condition to govern.</p>
+               <p>3. The Oath is not, that the King was, or ought to be, or had
+been, before he was ſeduced by ill Counſell, our onely and ſu<g ref="char:EOLhyphen"/>preame
+Governor in all Cauſes, over all perſons; but in the pre<g ref="char:EOLhyphen"/>ſent
+tenſe, that he is our onely and ſupreame Governor, at this
+preſent, in all cauſes, and over all perſons. So they the ſame per<g ref="char:EOLhyphen"/>ſons
+ſwear one thing, and declare to the Kingdom the contrary
+of the ſame thing, at the ſame time, in that which concerneth
+the weal of all this Nation.</p>
+               <p>4. The Miniſters in the Pulpits do not ſay, what they ſwear
+in the Houſe of Commons. Who ever heard ſithence this unna<g ref="char:EOLhyphen"/>turall
+warre, any of their Presbyters attribute that to his Maje<g ref="char:EOLhyphen"/>ſtie
+which they ſwear? The reaſon is, their Oath is taken at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi>
+amongſt themſelves: that which their Miniſters pray and
+teach, goes amongſt the people. To tell the people that the King
+is now their onely and ſupreame Governor in all cauſes, is con<g ref="char:EOLhyphen"/>ttrary
+to that the Houſes do now practiſe, and to all they act
+and maintain. They, the two Houſes forſooth, are the onely and
+ſupreame Governors in default of the King, for that he hath left
+his great Counſell, and will not come to them, and yet the King
+deſires to come, but they will not ſuffer him, but keep him pri<g ref="char:EOLhyphen"/>ſoner
+at <hi>Holdenby:</hi> ſo well do their actions and O<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ths agree.</p>
+               <p>5. They ſwear now King <hi>Charles</hi> is their onely and ſupreame
+Governor; but with a reſolution at the time of the Oath taking,
+and before and after, that he ſhall not be onely or ſupreame Go<g ref="char:EOLhyphen"/>vernor,
+or onely and ſupreame, but not any Governor at all: For
+there is no point of Government, but for ſome yeers paſt they
+<pb n="4" facs="tcp:160300:4"/>
+have taken to themſelves, and uſed his name onely, to abuſe
+and deceive the people.</p>
+               <p>6. That this vertuall power is a meer fiction, their Propoſi<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns
+ſent to <hi>Oxford,</hi> to <hi>Newcaſtle,</hi> to be ſigned by the <hi>King,</hi> do
+prove it ſo. What needs this ado, if they have the vertuall Power
+with them at <hi>Weſtminſte<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>?</hi>
+               </p>
+               <p>7. <hi>To affirm that the Kings Power (which is the vertue they
+talk of) is ſeparable from his perſon, is high Treaſon by the
+Law of the Land: which is ſo declared by that learned man of
+the <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aw, Si<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Edward Cook; <hi>ſo much magnified by this preſent
+Parliament, who <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 7. part of his Reports in</hi> Calvins <hi>caſe, fol.
+11 ſaith thus.</hi> In the Reign of Edw: 2. he Sponcers, the Father, a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d
+Son, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hatch<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in their h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arts, invented this damnable
+and <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pinion, that homage a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doath of ligeance was more by rea<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kings Cr<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn, (that is, of his polit<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck capacity) then by reaſon
+of <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> perſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King; upon whi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pinion they inferred <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hree execrable
+and <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 1. I<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the King do not demean himſelf by
+reaſon in the right of his Cro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, his <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are bound by Oath to remove
+th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King. 2 Seeing that the King could not be r<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>formed <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that ought to be done <hi>per aſpertee:</hi> that is, by f<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rce. 3. That his
+lieges be bound to govern in aid of him, and in <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>: All whi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h
+were condemned by two Parliaments, one in the Reign of <hi>Ed<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: 2.</hi> call<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d
+<hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xilium Hugonis le Spencer; and the other in</hi> Anno 1 Edw: 3.
+cap 2.</p>
+               <p>And that the naturall body and politick makes one indivi<g ref="char:EOLhyphen"/>ſible
+body, and that theſe two bodies incorporate in one perſon
+make one body, and not divers, is reſolved as the Law of <hi>Eng<g ref="char:EOLhyphen"/>land,
+4. E<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iz: Plowdon</hi> Com: fol: 213. by Si<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>R<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bert Ca<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lin,</hi> Lord
+Chief Juſtice of <hi>England,</hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Lord Chief Juſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice of
+the Common P<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſe; the Lord <hi>Sa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ders,</hi> Lord Chief baron of
+the <hi>Exchequer,</hi> and by the reſt o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Ju<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges, <hi>viz.</hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,
+Juſtice <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Juſtice <hi>Corbet,</hi> Juſtice <hi>Weston</hi> baron <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+and <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sergeants<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> General<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Atturey</hi>
+of the <hi>Turchy: <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> the learned it man of that age, in the
+kn<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dg<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Law, and Cu<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>omes of the Re<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lm.</p>
+               <p>8. The Law in all <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> without any <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is and <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+been:<note place="margin">2 H. <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ma<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>na Cha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta.</note> That <hi>no Act of Parliament <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Subj<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cts of the L<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd
+<pb n="5" facs="tcp:160300:4"/>
+without the aſſent of the King,</hi>
+                  <note place="margin">So in every age till this day, and in every Kings time, as ap<g ref="char:EOLhyphen"/>pears by the Acts in print 1 part of the Inſtit. Sect. 234. in fine. where many of the Law-Books are ci<g ref="char:EOLhyphen"/>ted.</note> 
+                  <hi>either for Perſon, Lands, goods, or fame.</hi>
+No man can ſhew any fillable, letter, or line to the contrary in
+the books of the Law, or printed Acts of Parliament, in any age
+in this Land. If the vertuall Power be in the Houſes, there needs
+no aſſent of the Kings. The ſtiles of the Acts printed from 9 <hi>H.</hi>
+3. to 1 <hi>H.</hi> 7. were either, <hi>The King ordains at this Parliament,</hi> &amp;c.
+or the King ordaineth by the advice of his Prelates and Bar<g ref="char:EOLhyphen"/>rons,
+and at the humble Petition of the Commons, &amp;c. In <hi>Hen.
+7.</hi> his time the Stile altered, and hath ſithence continued thus,
+It is ordained by the Kings Majeſtie, and the Lords Spirituall
+and Temporall, and Commons in this preſent Parliament aſ<g ref="char:EOLhyphen"/>ſembled.
+So that alwayes the Aſſent of the King giveth the life
+to all,<note place="margin">7 H. 7. 14. 12 of H. 7. 20</note> as the ſoul to the body; and therefore our Law Books
+call the King, the Fountain of Juſtice, and the life of the Law.</p>
+               <p>9. Mercy as well as Juſtice belongs by the Law of the Land
+onely to the King.<note place="margin">2 H. 4. ca. 22. 4 pars inſtit. 42.</note> This is confeſſed by Mr. <hi>Prin<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and it is ſo
+without any queſtion: The King can onely pardon, and never
+more <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſe to have ſufficient pardons then in ſuch troubleſome
+times as theſe;<note place="margin">Mr. <hi>Prinn</hi> in his Treatiſe of the great Seal, fol. 17. 27 H. 8. c. 24.</note> and God ſend us pardons and peace. None can
+give any pardon, but the King by the Law of the Land: <hi>The whole
+and ſole power of pardoning Treaſons and Felonies belongs to the King,</hi>
+are the words of the Law, and it is a deluſion to take it from any
+other, and utterly invalid. <hi>27<g ref="char:punc">▪</g> H. 8. ca. 24.</hi>
+               </p>
+               <p>10. Queen <hi>Elizabeth</hi> ſummoned her firſt Parliament, to be
+held the 23. of <hi>Janna.</hi> in the firſt yeer of her Majeſties Reign.
+The Lords and Commons aſſembled by force of the ſame Writ,
+the 23. day the Queen fell ſick, and could not appear in her per<g ref="char:EOLhyphen"/>ſon
+in Parliament that day, and therefore prorogued it untill
+the 25. of the ſame moneth of Januarie.<note place="margin">3 Eliz. Dier 203.</note> 
+                  <hi>Reſolved by all the Judges
+of</hi> England, <hi>that the Parliament began not the day of the return of the
+Writ,</hi> viz: <hi>the 23. of January, when the Lords and Commons appeared;
+but the 25. of the ſaid moneth, when the King came in perſon:</hi> which
+ſheweth evidently that this vertuall preſence is a meer deluding
+fiction that hath no ground in Law, reaſon, or ſenſe. They
+have the King now a Priſoner at <hi>Holdenby,</hi> with guards upon
+him, and yet they govern by the vertuall Power of their Priſo<g ref="char:EOLhyphen"/>ner.
+Theſe are ſome few of the cauſes and reaſons which moved
+<pb n="6" facs="tcp:160300:5"/>
+me to deliver that paper to Mr. <hi>Corbet,</hi> which I am readie to <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtifie
+with my life, and ſhould hold it a great honour to <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+the honourable an<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> holy Laws of the Land: That <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+ſave this Land fro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>truction, is an Act of Oblivion, <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+Majeſties gracious <gap reason="illegible" resp="#TECH" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>all pardon, the Soul<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iers their <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+and every man his <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and Truth and Peace eſtabliſhed in <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd, and a favourable regard had to the ſatisfaction of <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+Conſciences.</p>
+               <closer>
+                  <dateline>
+                     <date>April 29. 1647.</date>
+                  </dateline>
+                  <signed>David Jenkins.</signed>
+               </closer>
+            </div>
+            <div type="reply_to_letter">
+               <head>An ANSWER to the Poyſonous
+Seditious Paper of Mr. David Jenkins.</head>
+               <p>MR. <hi>David Jenkins</hi> in his Paper of the 29. of <hi>April</hi> laſt, lay<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+moſt odious charges upon the <hi>Parliament:</hi> and conſe<g ref="char:EOLhyphen"/>quently
+upon all that have adhered to the <hi>Parliament</hi> in this
+Warre; and leſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe his deſperate infuſions ſhould not work
+powerfully enough upon the vulgar; he being an ancient pra<g ref="char:EOLhyphen"/>ctiſer
+in the Law, and promoted to the title of a Judge: he cites
+Book caſes aga<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſt the two Houſes, and ſeems forward to lay
+down his life in the cauſe.</p>
+               <p>His 1. Argument runs thus. The <hi>Parliament</hi> not having the
+Kings Writ, Patent or Commiſſion, cannot do ſo much as exa<g ref="char:EOLhyphen"/>mine
+any man: But the <hi>Parliament</hi> has not the Kings Writ, &amp;c.
+<hi>Ergo:</hi> his minor is confirmed thus. If the Kings power remain
+ſolely in himſelf, and be not vertually preſent in the two Houſes,
+then they cannot pretend his Writ, Pattent or Commiſſion. But
+the Kings power is in himſelf, and not vertually in the two
+H<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſes, <hi>ergo,</hi> that the <hi>Parliament</hi> has no vertuall power, he proves
+thu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </p>
+               <p>1. If the <hi>Parliament</hi> had in them the Kings vertuall Power,
+they needed not deſire the Kings ratification: they needed not
+<pb n="7" facs="tcp:160300:5"/>
+ſend any Propoſitions to him; but now they ſend Propoſitions,
+<hi>ergo</hi> this vertuall power is but a meer fiction.</p>
+               <p>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> To affi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m that the Kings power is ſeparable from his per<g ref="char:EOLhyphen"/>ſon,
+is by the Law adjudged high Treaſon: but in the <hi>Parliament</hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Kings Power is vertually in them, then they ſeparate it
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his perſon <hi>Ergo.</hi>
+               </p>
+               <p>3. If none can pardon Felony or Treaſon except the <hi>King,</hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one has the virtua<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l power of the <hi>King,</hi> but none can pardon
+except the <hi>King, Ergo,</hi>
+               </p>
+               <p>4. If the <hi>King</hi> be in no condition to govern, then he is in no
+condition to derive virtuall power, but, &amp;c.</p>
+               <p>5. If none can ſit in <hi>Parliament</hi> but he muſt firſt ſwear that the
+<gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the onely Supreame Governor over all Perſons in all
+Cauſes, then, no Member of the <hi>Parliament,</hi> nor the whole <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+can ſuppoſe him or themſelves ſuperiour to the <hi>King:</hi> but
+none can ſit in <hi>Parliament,</hi> &amp;c. <hi>Ergo,</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no Act of <hi>Parliament</hi> binde the Subject without the <hi>Kings</hi>
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, then there is no virtuall power in the <hi>Parliament</hi> without
+the Kings aſſent; but no Act binds, &amp;c. <hi>Ergo,</hi>
+               </p>
+               <p>Out of theſe premiſes which this grave Gentleman judges to
+be <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrefragable, he concludes that the <hi>Parliament</hi> denies the <hi>King</hi>
+to be Supreame Governor, nay to be any Governor at all, in as
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as there is no point of government, He ſayes but th<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Par<g ref="char:EOLhyphen"/>liament</hi>
+for ſome yeers paſt have taken to themſelves uſing the
+Kings name, onely to abuſe and deceive the people. He ſaies
+further, the <hi>Parliament</hi> pretends againſt the King, becauſe that
+he ha<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> left the great Counſell, and yet the King deſires to come
+to his great Counſell, but cannot becauſe he is by them kept
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at <hi>Holmby.</hi>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he ſaies the Houſes are guilty of pe<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jur<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as well as of
+the <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the people, and rebelling againſt the King; in as much
+as at the ſame time they ſwear him to be onely <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Go<g ref="char:EOLhyphen"/>vernor,
+and declare him to be in no condition to govern.</p>
+               <p>How eaſily theſe things may be anſwered, and refuted, let
+the world ſee.</p>
+               <p>
+                  <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> cannot be denyed: but the <hi>Parliament</hi> ſits by the
+<hi>Kings</hi> Writ, nay if Statute Law be greater then th<gap reason="illegible" resp="#TECH" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Kings</hi> Writ,
+it cannot be denyed but the <hi>Parliament</hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or ough<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by
+ſomething greater then then the <hi>Kings</hi> 
+                  <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, And, if it be con<g ref="char:EOLhyphen"/>feſſed
+<pb n="8" facs="tcp:160300:6"/>
+that the <hi>Parliament</hi> ſits by the <hi>Kings</hi> Writ, but does not
+Act by the <hi>Kings</hi> Writ, then it muſt follow that the <hi>Parliament</hi> is
+a void vain Court, and ſits to no purpoſe; nay it muſt alſo fol<g ref="char:EOLhyphen"/>low,
+that the <hi>Parliament</hi> is of leſſe Authority, and of leſſe uſe
+then any other inferiour Court. Foraſmuch as it is not in the
+<hi>Kings</hi> power to controul other Courts, or to prevent them from
+ſitting or Acting.</p>
+               <p>2. This is a groſſe <hi>non ſequitu<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the <hi>Kings</hi> power is in himſelf,
+<hi>Ergo</hi> it is not derived to, nor does reſide virtually in the <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+For the light of the Sun remains imbodied, and unexhauſt<g ref="char:EOLhyphen"/>ed
+in the Globe of the Sun, at the ſame time as it is diffuſed and
+diſplayed through all the body of the air; and who ſees not that
+the King without emptying himſelf, gives Commiſſions daily
+of Oier and Terminer to others, which yet he himſelf can nei<g ref="char:EOLhyphen"/>ther
+fruſtrate nor el<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de? But for my part I conceive it is a great
+errour to infer that the <hi>Parliament</hi> has onely the Kings power,
+becauſe it has the Kings power in it: for it ſeems to me that the
+<hi>Parliament</hi> does <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſit and act by concurrent power, devo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved
+both from the King and Kingdom; And this in ſome things is
+more obvious and apparent then in others. For by what power
+does the <hi>Parliament</hi> grant Subſedies to the King? if onely by the
+power which the King gives, then the King may take Subſedies
+without any grant from the <hi>Parliament:</hi> and if it be ſo by a
+power which the people give to the <hi>Parliament,</hi> then it will fol<g ref="char:EOLhyphen"/>low,
+that the <hi>Parliament</hi> has a power given both by King and
+Kingdom.</p>
+               <p>3. The ſending Propoſitions to the King, and deſ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring his
+concurrence, is ſcarce worth an Anſwer; for Subjects may hum<g ref="char:EOLhyphen"/>bly
+petition for that which is their ſtrict right and property.
+Nay it may ſometimes beſeem a ſuperior to prefer a ſuit to an
+inferior for matters in themſelves due. God himſelf has not ut<g ref="char:EOLhyphen"/>terly
+diſdained to beſeech his own miſerable, impious, unwor<g ref="char:EOLhyphen"/>thy
+creatures: beſides 'tis not our Tenet that the King has no
+power, becauſe he has not all power; nor that the King cannot
+at all promote our happineſſe, becauſe he has no juſt claim to
+procure our ruine.</p>
+               <p>4. We affirm not that the Kings power is ſeparated from his
+perſon ſo as the two <hi>Spenſers</hi> affirmed; neither do we frame con<g ref="char:EOLhyphen"/>cluſions
+out of that ſeparation as the two <hi>Spenſers</hi> did, either
+<pb n="9" facs="tcp:160300:6"/>
+that the King may be removed or miſdemenors, or reformed
+<hi>per aſpertee;</hi> or that the Subject is bound to govern in aid of him;
+we onely ſay, that his power is diſtinguiſhable from his perſon:
+and when he himſelf makes a diſtinction betwixt them, com<g ref="char:EOLhyphen"/>manding
+<hi>one</hi> thing by his Legall Writes, Courts and Officers;
+and commanding another thing extra<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udicially by word of
+mouth, letters, or Miniſters, we are to obey his Power rather
+then his Perſon.</p>
+               <p>5. We take not from the King all power of pardoning <hi>Delin<g ref="char:EOLhyphen"/>quents,</hi>
+we onely ſay it is not proper to him <hi>quarto modo.</hi> For if
+the King pardon him which has murdered my ſon, his pardon
+ſhall not <gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut me off from my appeal: and 'tis more unreaſona<g ref="char:EOLhyphen"/>ble
+that the Kings pardon ſhould make a whole State which
+has ſuffered remedileſſe, then any private man. So if the King
+ſhould deny indemnity to thoſe which in the fury of war have
+done things unjuſtifiable by the Laws of Peace, and thereby
+keep the wounds of the State from being bound up, 'tis equia<g ref="char:EOLhyphen"/>ble
+that an Act of Indemnity ſhould be made forcible another
+way. And if this will not hold, yet this is no good conſequence
+the King is abſolute in point of pardons, therefore he is abſolute
+in all things elſe; and the <hi>Parliament</hi> has no power to diſcharge
+<hi>Delinquenties,</hi> therefore it has no power in other matters.</p>
+               <p>6 The <hi>Parliament</hi> has declared the <hi>King</hi> to be in no condi<g ref="char:EOLhyphen"/>tion
+to govern: but this muſt nor be interpreted rigidly, and
+without a diſtinction: for if the <hi>King</hi> with his ſword drawn in
+his hand, and purſuing the <hi>Parliament</hi> and their adherents as
+Rebels, be not fit for all Acts of Government, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not hereby
+inſinuated that he is <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the habit or righ<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of governing.
+<gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> be unq<gap reason="illegible" resp="#TECH" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ified now, <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is not <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for the future. If
+he may not do things deſtructive to the <hi>Parliament,</hi> he is not <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+from returning to the <hi>Parliament,</hi> or doing <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+This is a frivelous civill, and ſub<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erfuge.</p>
+               <p>7 We ſwear that the <hi>King</hi> is our ſupreame Governor over
+all Perſons, and in all cauſes; but we do not ſwear that he is
+above all Law, nor above the <gap reason="illegible" resp="#TECH" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of his people, which is the
+end of the Law, and indeed <hi>Paramou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi> to the Law it ſelf. I<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he be
+above all Law, or lyable to no reſt<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aint of ou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Law, then we are
+<gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <hi>French,</hi> or the <hi>T<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ks;</hi> a<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d if he be above the
+pri<gap reason="illegible" resp="#TECH" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e end of Law <hi>common ſafety,</hi> then we are not ſo <gap reason="illegible" resp="#TECH" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the
+<pb n="10" facs="tcp:160300:7"/>
+                  <hi>French,</hi> or the <hi>Turks.</hi> For if the totall ſubverſion of the <hi>French</hi> or
+the <hi>Turk</hi> were attempted they might by Gods law imprinted
+in the book of nature juſtifie a ſelf-defence; but we muſt remedi<g ref="char:EOLhyphen"/>leſly
+periſh when the <hi>King</hi> pleaſes to command our throats. Be<g ref="char:EOLhyphen"/>ſides,
+how acheived the <hi>King</hi> of England ſuch a Supremacy
+above all Law, and the community it ſelf, for whoſe behoof
+Law was made? If Gods donation be pleaded, which is not ſpe<g ref="char:EOLhyphen"/>ciall
+to him, or different from what other <hi>Kings</hi> may pretend
+too, then to what purpoſe ſerve our Laws, nay to what purpoſe
+ſerve the Laws of other Countreys? for by this generall dona<g ref="char:EOLhyphen"/>tion,
+all Nations are condemned to all ſervitude as well as we.
+If the Law of this Land be appealed to, what Books has Mr. <hi>Jen<g ref="char:EOLhyphen"/>kins</hi>
+read, where has he found out that <hi>Lex Regia,</hi> whereby the
+people of England have given away from themſelves all right
+in themſelves? Some of our books tell us that we are more free
+then the <hi>French,</hi> that the <hi>King</hi> cannot oppreſſe us in our perſons,
+or eſtates, by impriſonment, denying juſtice, or laying taxes
+without our conſents: other books tell us, that the ſafety of the
+people is the ſupreame law, and that the <hi>King</hi> has both God
+and the Law for his Superior. But all this is nothing to learned
+Mr. <hi>Jenkins.</hi>
+               </p>
+               <p>8. We admit that no Acts of <hi>Parliament</hi> are compleat, or for<g ref="char:EOLhyphen"/>mally
+binding without the <hi>Kings</hi> aſſent: yet this is ſtill to be de<g ref="char:EOLhyphen"/>nyed,
+that therefore without this aſſent particularly expreſt,
+the two Houſes can do nothing, nor have any virtuall power at
+all, no not to examine Mr. <hi>Jenkins,</hi> nor to do any other thing of
+like nature, though in order to publick juſtice and ſafetie. I have
+done, and wiſh Mr. <hi>Jenkins</hi> would call in, and lick up again his
+black, infamous, execrable reproaches, ſo filthily vomited out
+againſt the <hi>Parliament.</hi>
+               </p>
+            </div>
+            <div type="reply_to_reply">
+               <head>The Reply of Judge Jenkins to Mr. H. P.</head>
+               <p>AFter the ſaid Mr. <hi>H. P.</hi> hath made a recitall of the Heads
+of my <hi>Vindication,</hi> he deduceth his Anſwer unto eight Par<g ref="char:EOLhyphen"/>ticulars.</p>
+               <div n="1" type="item">
+                  <pb n="11" facs="tcp:160300:7"/>
+                  <head>To the firſt.</head>
+                  <p>I Was examined by a Committee appointed by the Houſe of
+Commons: I ſay and ſaid that the Houſe of Commons have
+no power to examine me, for that it is no Court, every Court
+hath power to examine upon Oath, this power the Houſe of
+Commons never claimed;<note place="margin">5 H 4 c. 3.</note> The Court of <hi>Pie-Powders, Court-Baron,
+Hundred Court,</hi>
+                     <note place="margin">3 H 6. 46.</note> 
+                     <hi>County Court,</hi> and every other Court of Record,
+or not of Record,<note place="margin">19 H 6. 43.</note> hath power to examine upon oath, and an
+examination without Oath,<note place="margin">35 H. 6. 5.</note> is a communication onely, exa<g ref="char:EOLhyphen"/>mination
+in Law is upon oath.</p>
+                  <p>There is no Court without a power of triall,<note place="margin">Sir Anthony Maynes caſe, Cook 5. pars, Reports, Lit. 2. lib. Sect. 194. 6 H. 4. 1.</note> the Houſe of
+<hi>Commons</hi> hath no power to try any offence, nor ever practiſed it
+by Bill, Inditement, Information, Plaint or Originall, to de<g ref="char:EOLhyphen"/>duce
+it to triall, nor to try it by Verdict, Demurrer or Exami<g ref="char:EOLhyphen"/>nation
+of witneſſes upon Oath, without which there can be no
+condemnation or judgement; and that which can attain to no
+reaſonable end, the Law rejects as a thing <hi>inutile,</hi> and uſeleſſe:
+<hi>Sapiens incipit à fine.</hi>
+                  </p>
+                  <p>The Writ whereby they are called gives them power <hi>Ad fa<g ref="char:EOLhyphen"/>ciendum
+&amp; conſentiendum,</hi>
+                     <note place="margin">4 pars, Inſtit. fol 4. &amp; 9.</note> to what? to ſuch things <hi>Quae ibidem de
+communi Conſilio ordinari contigerint, (viz.)</hi> in the Parliament:
+This makes nothing at all for a Court for the Houſe of Com<g ref="char:EOLhyphen"/>mons;
+that <hi>conſilium</hi> which that Writ intends, is cleared partly
+by the Writ for chooſing Knights, &amp;c. For the King by that Writ
+is ſaid to reſolve to conſult and treat with the Prelates and
+Peers of the Kingdom, for and touching the great concernments
+of the Common-wealth (for the King never fits in the Houſe
+of Commons;) and this alſo is made evident by the Writs to
+the Prelates, Peers, Judges, and to his Councell at Law; the
+words in their Writs are, <hi>To appear and attend the Parliament, Con<g ref="char:EOLhyphen"/>ſilium
+impenſure,</hi> the one doth <hi>conſulere,</hi> the other <hi>facere &amp; conſen<g ref="char:EOLhyphen"/>tire.</hi>
+                  </p>
+                  <p>The Houſe of Lords,<note place="margin">7 H 6. 28.</note> where the King fits in perſon, aſſiſted by
+his Lords,<note place="margin">1 H 7. 20.</note> Judges, Serjeants, Atturney, Sollicitor, Maſters of
+the Chancery,<note place="margin">14 E. 3. ca 5.</note> is a Court of Record to many purpoſes, ſet down
+in the books of the Law,<note place="margin">1 Pa<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, Inſtit. pa. 21.</note> and the Statutes of the Land; and that
+Courts is onely in the Houſe of Lords, where the King ſits.</p>
+                  <p>
+                     <pb n="12" facs="tcp:160300:8"/>
+A Court muſt either be by the Kings Patent, Statute Law, or
+by the Common Law,<note place="margin">Plowd Com. 319.</note> which is common and con<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ant uſage;
+the Houſe of Commons hath no Patent to be a Court, nor S<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tute
+Law to be a Court, nor common uſage; they have no
+<gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Book but ſince <hi>E. 6.</hi> time: was there ever Fine by the
+Houſe of Commons e<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>treated into the Excheque<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>? For murther
+o<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Felony they can impriſon no man, much <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſſe for Treaſon;
+the Houſe which cannot do the leſſe cannot do the greater.</p>
+                  <p>I<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is ordained,<note place="margin">25 E 3 c 4.</note> that no man ſhall be impriſoned, or put out
+of his Franchiſe by the King or his Councell,<note place="margin">3<g ref="char:punc">▪</g> Car Peti<g ref="char:EOLhyphen"/>tion of Right.</note> but upon Indict<g ref="char:EOLhyphen"/>ment
+or preſentment of his good and lawfull Neighbours,
+where the deed is done, or by originall Writ at the Common
+Law, and ſo is <hi>Lex terrae</hi> the Law of the Land, mentioned is
+<hi>Magna Charta.</hi> cap. 29 expounded; and the ſaid <hi>Magna Charta</hi>
+and <hi>Charta <gap reason="illegible" resp="#TECH" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>,</hi> are declared by the Statute of 25 <hi>E 1. <gap reason="illegible" resp="#TECH" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+to be the Common Law of the Land. All Judges and Com<g ref="char:EOLhyphen"/>miſſioners
+are to proceed, <hi>Secundum legem &amp; conſuetudinem Regni
+Angliae,</hi> as appears by all proceedings in all Courts, and by all
+Commiſſions: and therefore the Houſe of Commons by them<g ref="char:EOLhyphen"/>ſelves
+proceeding not by Indictment, Preſentment, <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Origi<g ref="char:EOLhyphen"/>nall
+Writ, have no power to impriſon men, or to put them out
+of their Franchi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</p>
+                  <p>This no way trenches upon the Parliament,<note place="margin">4 pars, Inſtit. pag 1</note> for it is in Law
+no Parliament withou<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> King and both Houſes;<note place="margin">3 Pars. Inſtit. p. 3.</note> I have onely in
+my Paper de<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ivered to Mr. <hi>Corbet,</hi> applyed my ſelf to that Com<g ref="char:EOLhyphen"/>mittee,
+<note place="margin">12 H 7. 20. Prince caſe.</note> that they had no power to examine me; but I never
+thought, ſaid, or wrote, that the Parliament had no power to
+examine me:<note place="margin">8 Pars<g ref="char:punc">▪</g> Cook. 1 Pars, <gap reason="illegible" resp="#TECH" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> p <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>59.</note> the Law and cuſtome of this Land is, that a Par<g ref="char:EOLhyphen"/>liament
+hath power over my life, liberty, lands and goods, and
+over every other Subject;<note place="margin">1 H 8 3</note> but the Houſe of Commons of it ſelf
+hath no ſuch power.<note place="margin">Dier<g ref="char:punc">▪</g> 38 H 8 60</note>
+                  </p>
+                  <p>For the Lord <hi>Cooks</hi> relation, that the Houſe of Commons
+have impoſed <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,<note place="margin">1 P<gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s, Inſtit p 19 <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> and impriſoned men in Queen <hi>E<gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>z<gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ths</hi>
+time, and ſince; Few facts of late time never <gap reason="illegible" resp="#TECH" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+power nor Court,<note place="margin">4 <gap reason="illegible" resp="#TECH" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſtit ca. Parl.</note> 
+                     <hi>à <gap reason="illegible" resp="#TECH" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> is no good <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+for the words of the Statute of 6 <hi>H 8 c. 16</hi> that a <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icence to
+dep<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t from the Houſe or Commons for any Member thereof
+is to be entred of Record in the Book or the Clark of the Par<g ref="char:EOLhyphen"/>liament,
+<pb n="13" facs="tcp:160300:8"/>
+appointed, or to be appointed for that Houſe, doth
+not conclude that the Houſe of Commons is a Court of Re<g ref="char:EOLhyphen"/>cord.</p>
+                  <p>For firſt, that Law of 6. <hi>H. 8. c. 26.</hi> handles no ſuch queſtion,
+as that, whether the Houſe of Commons be a Court, it is a
+maxime in all Laws, <hi>Lex aliud tractans nil probat,</hi> the word <hi>(Re<g ref="char:EOLhyphen"/>cord)</hi>
+there mentioned, is onely a memoriall of what was done
+and entered in a Book: A Plaint removed out of the County-Court
+to the Court of the Common-Pleas, hath theſe words
+in the Writ of remove,<note place="margin">Fitzh Nat. Br 70</note> 
+                     <hi>Recordari facias loquelam, &amp;c.</hi> and yet the
+County-Court is no Court of Record, and ſo for ancient De<g ref="char:EOLhyphen"/>meſne,
+<note place="margin">Fi<gap reason="illegible" resp="#TECH" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>h. Nat, Br 13.</note> in a Writ of falſe judgement, the words are <hi>Recordari fa<g ref="char:EOLhyphen"/>cias
+loquelam,</hi> &amp;c. and yet the Court of ancient Demeſne is no
+Court of Record;<note place="margin">12 H 4. 23.</note> and ſo of a Court Baron, the Law and cu<g ref="char:EOLhyphen"/>ſtome
+of <hi>England</hi> muſt be preſerved,<note place="margin">34 H. 6. 49.</note> or <hi>England</hi> will be deſtroy<g ref="char:EOLhyphen"/>ed,
+and have neither Law nor cuſtome.</p>
+                  <p>Let any man ſhew me, that the Court of Lords, or the Houſe
+of Commons in any age hath made any man a Delinquent
+<hi>(Rege diſſentiente)</hi> the King contradicting it under his Great
+Seal. Sir <hi>Gi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es Mompeſſon, Michel,</hi> and others of late were con<g ref="char:EOLhyphen"/>demned
+by the proſecution of the Houſe of Commons in King
+<hi>James</hi> his time; did King <hi>James</hi> ever contradict it? And ſo of
+ancient times,<note place="margin">4 Pars, Inſtit. Tit. Parl. p. 23.</note> where the Houſe of Peers condemned <hi>Latimer</hi>
+in 50. <hi>E.</hi> 3. the Kings pardon freed him: which ſhews cleerly,
+that the Kings expreſſe or implyed aſſent muſt of neceſſity be
+had to make a Delinquent.</p>
+                  <p>
+                     <hi>The Gentleman ſaith,</hi> That the Parliament fits, or ought to ſit by
+ſomething greater then the Kings Writ, &amp;c.</p>
+                  <p>No Parliament did ever ſit without the Kings Writ, nor
+could ever Parliament begin without the Kings preſence in
+perſon,<note place="margin">4 Pars, Inſtit. p. 4. &amp; 6.</note> or by a Guardian of <hi>England</hi> by Patent under the Kings
+Great Seal, the King being <hi>in remotis,</hi> or by Commiſſion under
+the Great Seal to certain Lords repreſenting the Kings perſon,
+and hath been thus in all Ages unto this Seſſion of Parliament,
+wherein his Majeſtie hath been preſſed, and hath paſſed two
+Acts of Parliament, one for a Trienniall Parliament, and
+another for a perpetuall,<note place="margin">4 E 3. c. 14.</note> if the Houſes pleaſe, to ſatisfie their
+deſires;<note place="margin">36 E. 3. c. 10.</note> how theſe two Acts agree one with another, and with
+<pb n="14" facs="tcp:160300:9"/>
+Statute in <hi>E.</hi> the thirds time,<note place="margin">21 I<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c. the Act of Limitation of Actions, cap. 26.</note> where Parliaments are ordained
+to be holden every yeer, and what miſchiefs to the people of
+this Land ſuch length of Parliaments will produce by prote<g ref="char:EOLhyphen"/>ctions
+and priviledges, to free them and their meniall ſervants
+from all debts during their lives, if they pleaſe to continue it
+ſo long; and how deſtructive to mens actions againſt them, by
+reaſon of the Statute of Limitations, which confines their acti<g ref="char:EOLhyphen"/>ons
+to certain yeers, and many other inconveniencies or greater
+importance, is eaſie to underſtand?</p>
+                  <p>How can any man affirm, that the two Houſes do act now
+by the Kings Writ which relates to counſell and Treaty with
+the King,<note place="margin">4 pars, Inſtit. pa. 14.</note> concerning the King, the defence of his Kingdom,
+and of the Church of <hi>England,</hi> there are the three points
+which it tends to, as appears by the Writ. They keep their
+King priſoner at <hi>Holdenby,</hi> and will not ſuffer him to conſult
+and treat with them.<note place="margin">Vow and Co<g ref="char:EOLhyphen"/>venant, p. 11.</note> They have made a Vow and Covenant
+to aſſiſt the Forces raiſed and continued by both Houſes againſt
+the Forces raiſed by the King without their conſent; and to
+the ſame effect have deviſed the Oath which they call the <hi>Ne<g ref="char:EOLhyphen"/>gative
+Oath:</hi> Is this to defend the Kings Kingdom, or their king<g ref="char:EOLhyphen"/>dome?</p>
+                  <p>When by their ſolemne League and Covenant they extir<g ref="char:EOLhyphen"/>pate
+Biſhops, Deanes and Chapters root and branch, is
+this to defend the Church of <hi>England?</hi> (that Church muſt
+neceſſarily be meant, that was the Church of <hi>England</hi> when
+the ſaid Writ bore teſt) they were not ſummoned to defend a
+Church that was not in being;<note place="margin">3 Pars, Cook. De<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n and Chapter of Norwich.</note> to deſtroy and defend the
+Church are very contrary things; the Church is not de<g ref="char:EOLhyphen"/>fended,
+when they take away and ſell the Lands of the
+Church.</p>
+                  <p>The Gentleman ſaith, <hi>The King cannot controll other Courts
+of Justice, or prevent them from ſitting or acting, and therefore
+not the two Houſes, &amp;c.</hi> It is true, the King cannot controll or
+prevent his other Courts, for that they are his ordinarie
+Courts or common juſtice, to adminiſter common <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> un<g ref="char:EOLhyphen"/>to
+all men, according to the fixed Laws. The Houſes make
+no Court without the King, they are no body Co<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>porate
+without the King, nor Parliament without the King, they all
+<pb n="15" facs="tcp:160300:9"/>
+make one corporate body, one Court called the Parliament, wher<g ref="char:EOLhyphen"/>of
+the King is the head,<note place="margin">4 Pars, In<g ref="char:EOLhyphen"/>ſtit. p. 1.</note> and the Court is in the Lords houſe, where
+the King is preſent: and as a man is no man without a head, ſo
+the Houſes ſevered from the King, as now they are, have no power
+at all, and they themſelves by levying War againſt the King, and
+impriſoning of him, have made the State for not diſſolving, ad<g ref="char:EOLhyphen"/>journing,
+or proroging this Parliament of no effect, by the ſaid
+Acts of their owne; they ſit to no purpoſe without his aſſent to
+their Bills, they will not ſuffer him to conſult with them, and
+treat and reaſon with them, whereby we may diſcerne what Bills
+are fit to paſſe, and what not, which in all Ages the Kings of this
+Land have enjoyed as their undoubted Rights, and therefore they
+ſit to no purpoſe by their owne diſobedience and fault.</p>
+                  <p>For the ordinary Courts at <hi>Weſtminſter,</hi>
+                     <note place="margin">27 H. 8. <hi>c. 24, 28.</hi> H. 8 11. Dier.</note> the Iudges in all thoſe
+Courts are Iudges by the Kings Patent or Writ, otherwiſe they
+are no Iudges: the Houſes can make no Iudges, they are no Iudges
+at all who are made by them; the whole and ſole power of mak<g ref="char:EOLhyphen"/>ing
+Iudges, belongs to the King: the King cannot controle or pre<g ref="char:EOLhyphen"/>vent
+his own Iudges from ſitting or acting, but the Houſes he may
+for they are not the Kings Iudges, but the Iudges of the two Hou<g ref="char:EOLhyphen"/>ſes.
+<note place="margin">2 R, 3. 11.</note> In his other Courts, the King commits his power to his
+Iudges by his patent, and they are ſworne to doe common right to
+all men, and the King is ſworne not to let them from ſo doing:
+the King cannot judge in thoſe Courts, nor controule; but the
+King is both Iudge and Controller in the Court of Parliament:
+<hi>Quoad.</hi> Acts, for his aſſent or diſſent doth give life or death to all
+Bils. Many Lawyers have much to anſwer to God, this Kingdom,
+and to poſterity, for puzling the people of this Land with ſuch
+Fancies, as the Gentl<g ref="char:punc">▪</g> who wrote the Anſwer to my Paper, and
+others have publiſhed in theſe Troubles, which hath bin none of
+the leaſt cauſes of the rayſing and continuing of them: And ſo <hi>I</hi>
+have done with the firſt part of his anſwer.</p>
+               </div>
+               <div n="2" type="item">
+                  <head>A. D. 2.</head>
+                  <p>For the <hi>Non ſequitur,</hi> in the ſecond Section of the Gent<g ref="char:punc">▪</g> An<g ref="char:EOLhyphen"/>ſwer,
+the Antecedent and the Conſequent are his own.</p>
+                  <q>
+                     <l>Quem recitas meus eſt (ô Fidentine!) libellus:</l>
+                     <l>Sed malè dum recitas incipit eſſe tuus.</l>
+                  </q>
+                  <p>My words are, that the King is not vertually in the two houſes
+<pb n="16" facs="tcp:160300:10"/>
+at <hi>Weſtminſter,</hi> to enable them to grant pardons, for that whole
+and ſole power by the Law belongs to the King. My Paper
+hath no ſuch thing, as that the KINGS power cannot be deri<g ref="char:EOLhyphen"/>ved
+to others or the vertue of his power:<note place="margin">
+                        <hi>27 H.</hi> c. 24.</note> For His power, and
+the vertue of His power is in all Patents to his Iudges, in Char<g ref="char:EOLhyphen"/>ters
+to Corporations, in Commiſſions of all ſorts, and in the Par<g ref="char:EOLhyphen"/>liament
+aſſembled by force of his Writ of Summons, ſo long as
+they obey him; but when they renounce that power, and claime
+it not from the King, and declare to the Kingdome that hee is not
+in condition to governe, and impriſon him, and uſurpe to them<g ref="char:EOLhyphen"/>ſelves
+all Royall Authority, as the two Houſes now doe, no reaſo<g ref="char:EOLhyphen"/>nable
+man can affirme that they act by the power of their Priſo<g ref="char:EOLhyphen"/>ner,
+who hath no power to give them, that by force of Arms take
+all the power to themſelves.</p>
+                  <p>The Gentl. ſaith, the <hi>King grants Commiſſions daily of</hi> Oyer <hi>and</hi>
+Terminer,<note place="margin">4 E 4, 39.</note> 
+                     <hi>which hee cannot fruſtrate nor elude.</hi>
+                     <note place="margin">5 E. 44.</note> The King may re<g ref="char:EOLhyphen"/>voke
+and diſcharge the Commiſſion by his Writ,<note place="margin">1 E <gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Dy<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r 165.</note> as hee may re<g ref="char:EOLhyphen"/>move
+all Judges, and place other men in their roome; and many
+Kings death determines all the Iudges Parents of <hi>Weſtminſter-Hall,</hi>
+                     <note place="margin">1 Mar. Bro<gap reason="illegible" resp="#TECH" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ks <hi>caſe 447.</hi>
+                     </note> Commiſſions of <hi>Oyer</hi> and <hi>Terminer, &amp;c.</hi> and ſo hee might
+diſſolve both Houſes in all times, by his Writ under the Great
+Scale, untill that by this Parliament, by his owne conceſſion, the
+King of his goodneſſe hath ſecluded himſelfe; which goodnes hath
+bin full ill requi<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed.</p>
+                  <p>The Gentl. affirmes, <hi>That the power the Parliament hath, is con<g ref="char:EOLhyphen"/>current
+from the King and Kingdome;</hi> which he conceives, is pro<g ref="char:EOLhyphen"/>ved
+by the Grant of Subſidies to the King by the Parliament. The
+miſtaking of this word <hi>(Parliament)</hi> hath beene miſchievous in
+theſe times to this Land,<note place="margin">4 Pars, in<g ref="char:EOLhyphen"/>ſtit. <hi>p. 1.</hi>
+                     </note> and it is affectedly miſtaken, which makes
+the ſinne the greater, for the two Houſes are not the Parliament as
+before is declared; and at this time ſo to inculcate it, when all men
+know, that of the 120. Peeres of the Kingdom, who were tem<g ref="char:EOLhyphen"/>porall
+Peeres before the troubles, there are not not above 30. in the
+Lords houſe, and in the houſe of Commons about 200. of the prime
+Gent. of the Kingdom left the Houſe, and adhered to his Majeſty,
+who is impriſoned by them, ſhews no ſuch candor as to be deſired</p>
+                  <p>It is true,<note place="margin">25 Eliz. 1. <hi>Confirma<g ref="char:EOLhyphen"/>tio charta<g ref="char:EOLhyphen"/>rum,</hi> cap. 6.</note> that no Tallage can be layd upon the People of this
+Land, but by their conſent in Parliament, as appeareth by the
+Lawes mentioned in the margent, but you ſhall finde in Mr. <hi>Sel<g ref="char:EOLhyphen"/>dens</hi>
+                     <pb n="17" facs="tcp:160300:10"/>
+learned Book,<note place="margin">
+                        <hi>24 Eli. 1.</hi> cap. 1. de Tallagio non con<g ref="char:EOLhyphen"/>cedendo.</note> called <hi>Mare Clauſum,</hi> a number of Preſidents
+in <hi>Henry</hi> the thirds time for Ship-money, juſtly condemned this
+Parliament, to which his Majeſty aſſented; and in truth, that Ship-money
+was condemned before, by the ſaid two Statutes of 25. <hi>E.
+1. &amp; 34. E. 1. de Tallagio non concedendo. Dane-gelt, Englitery,</hi>
+and many grievous burthens were layd upon the people, and born,
+untill that memorable Princes time. But I am of opinion, that the
+Common Law of the Land did alwayes reſtraine Kings from all
+Subſidies and Tallages, but by conſent in Parliament; which doth
+appeare by <hi>Magna Charta</hi> the laſt chap. where the Prelates, Lords,
+and Comminalty gave the King the fifteenth part of their move<g ref="char:EOLhyphen"/>ables.
+In truth it is no manner of conſequence, becauſe the King
+cannot take what he pleaſeth of the ſubjects goods, that therefore
+they have a concurrent power in Parliament: there have bin many
+Parliaments, and no Subſidies granted, Parliaments may be with<g ref="char:EOLhyphen"/>out
+Subſidies, but Subſidies cannot be without Parliaments: of
+ancient time Parliaments rarely granted any unleſſe it were in the
+time of forraine Wars; and in my time, Q. <hi>E.</hi> refuſed a Subſidie
+granted in Parliament, and in the Parliament of 1. <hi>Jac.</hi> none were
+granted. The Gent. ſhould make a conſcience of blinding the peo<g ref="char:EOLhyphen"/>ple
+with ſuch untrue colours, to the ruine of King and people.</p>
+               </div>
+               <div n="3" type="item">
+                  <head>A. D. 3.</head>
+                  <p>The Gent. affirms, <hi>That the ſending Propoſitions to the King, and
+deſiring his concurrence, is ſcarce worth an anſwer, for Subjects may
+humbly petition for that which is their ſtrict right and property, &amp;c.</hi> The
+Propoſitions ſent to <hi>Newcastle,</hi> are in print; wherein the two
+Houſes are ſo farre from humbly petitioning, that they ſtile not
+themſelves his Majeſties Subjects, as appeares by the Propoſitions.</p>
+                  <p>That they have a ſtrict right or property to any on of theſe Pro<g ref="char:EOLhyphen"/>poſitions,
+is a ſtrange aſſertion, every one of them being againſt
+the Lawes now in force: Have the two Houſes a ſtrict right and
+property, to lay upon the people what Taxes they ſhal judg meet?
+To pardon all treaſons, <hi>&amp;c.</hi> that is one of their Propoſitions. Have
+they a ſtrict right and property to pardon themſelves? and ſo for
+all the reſt of their Propoſitions.</p>
+                  <p>Theſe Propoſitions have been Voted by both Houſes,<note place="margin">12 H. 7. 20</note> the Kings
+aſſent (they being drawne into Bills) makes them Acts of Parlia<g ref="char:EOLhyphen"/>ment:
+<note place="margin">1 Iac. c. 1.</note> Hath the King no right to aſſent or diſ-aſſent?<note place="margin">1 Car. c. 7.</note> Was the
+<pb n="18" facs="tcp:160300:11"/>
+ſending but a Complement? All our Law-bookes and Statutes
+ſpeak otherwiſe. This Gentl. and others, muſt give an account one
+time or other for ſuch deluſions put upon the people.</p>
+               </div>
+               <div n="4" type="item">
+                  <head>A. D. 4.</head>
+                  <p>The Gent. ſaith, <hi>They affirme not, that the Kings power is ſepara<g ref="char:EOLhyphen"/>ted
+from his perſon, ſo as the two</hi> Spencers <hi>affirmed, &amp;c.</hi> His Maje<g ref="char:EOLhyphen"/>ſties
+perſon is now at <hi>Holnby</hi> under their Guards; have they not
+ſevered his power from him, when by no power they have left
+him, he can have two of his Chaplaines, who have not taken their
+Covenant to attend him for the exerciſe of his Conſcience?</p>
+                  <p>For the three Concluſions of the <hi>Spencers,</hi>
+                     <note place="margin">15 Ed. 2. <hi>Exilium Hugonis</hi>
+                     </note> do not the two Hou<g ref="char:EOLhyphen"/>ſes
+act every of them? They ſay his Majeſty hath broken his truſt,
+touching the government of his people: They have raiſed Armies
+to take him,<note place="margin">
+                        <hi>1 E 3.</hi> c. 2. <hi>Calv.</hi> caſe 7 Pars, Re<g ref="char:EOLhyphen"/>ports 11.</note> they have taken him, and impriſoned him; they go<g ref="char:EOLhyphen"/>vern
+themſelves; they make Laws, impoſe Taxes, make Iudges,
+Sheriffes, and take upon them <hi>omnia inſignia ſummae poteſtatis:</hi> Is
+not this to remove the King for miſdemeanours, to reforme <hi>per
+aſpertè,</hi> to governe in aide of him; the three concluſions of the
+<hi>Spencers?</hi> Doe they think the good people of <hi>England</hi> are becom
+ſtupid, and will not at length ſee theſe things?</p>
+                  <p>The Gentl. ſaith,<note place="margin">Plowd. 4. <hi>E. 213.</hi> the Kings power and his perſon are indivi<g ref="char:EOLhyphen"/>ſible.</note> 
+                     <hi>they doe not ſeparate his power from his Perſon,
+but diſtinguiſh it, &amp;c.</hi> His power is in his legall Writs, Courts,
+and Officicers: when they counterfeit the Great Seale, and ſeale
+Writs with the ſame, make Iudges themſelves, Courts and Offi<g ref="char:EOLhyphen"/>cers,
+by their own Ordinances againſt his conſent, declared under
+his true Great Seale of <hi>England</hi> (not by word of mouth, letters,
+or miniſters onely) their Seale is obeyed, their own Writs, their
+own Iudges, their owne Courts, their own Officers, and not the
+Kings: The time will come when ſuch ſtrange actions and diſ<g ref="char:EOLhyphen"/>courſes
+will be lamented.</p>
+               </div>
+               <div n="5" type="item">
+                  <head>A. D. 5.</head>
+                  <p>The Gentl. goes on,<note place="margin">
+                        <hi>Stanfor.</hi> Pleas. 99. 27. H. 8. c. 24. <hi>Dier. 163.</hi>
+                     </note> 
+                     <hi>Wee take not from the King all power of par<g ref="char:EOLhyphen"/>doning
+Delinquents, we only ſay it is not proper to him</hi> quarto modo,
+<hi>&amp;c.</hi> What doe you meane by <hi>quarto modo?</hi> I am ſure, <hi>Omnis Rex
+Angliae, ſolus Rex &amp; ſemper Rex</hi> can doe it, and none elſe: read
+the bookes of the Law to this purpoſe collected by that Reverend
+and learned Iudge <hi>Stanford,</hi> from all antiquity to his time, who
+dyed in the laſt yeare of King <hi>Philip</hi> and Queene <hi>Maries</hi> Reigne,
+<pb n="19" facs="tcp:160300:11"/>
+you ſhall find this a truth undenyable; and this power was never
+queſtioned in any age in any book by any untill this time, that eve<g ref="char:EOLhyphen"/>ry
+thing is put to the queſtion: You Gentlemen who profeſſe the
+Law, and maintaine the party againſt the King, return at length,
+and bring not ſo much ſcandall upon the Law, (which preſerves
+all) by publiſhing ſuch incredible things.</p>
+                  <p>We hold only what the Law holds,<note place="margin">1 Pars. In<g ref="char:EOLhyphen"/>ſtit. p. 44. Plowd. 3. Eliz. 236, 237.</note> the Kings Prerogative and
+the Subjects Liberty are determined, and bounded, and meaſured
+by the written Law what they are; we do not hold the King to
+have any more power, neither doth His Majeſty claime any other
+but what the Law gives him; the two Houſes by the Law of this
+Land have no colour of power, either to make Delinquents, or
+pardon Delinquents, the King contradicting: (and the Army un<g ref="char:EOLhyphen"/>der
+Sir <hi>Thomas Fairfax</hi> (howbeit but Souldiers) do now under<g ref="char:EOLhyphen"/>ſtand
+that to be Law, and doe now evidently ſee and aſſuredly
+know, that it is not an Ordinance of the two Houſes, but an act of
+Parliament, made by the King, Lords and Commons that will ſe<g ref="char:EOLhyphen"/>cure
+them, and let this Army remember their executed fellow
+Souldiers) And the Law was alwayes ſo taken by all men untill
+theſe troubles, that have begot Monſters of Opinions.</p>
+               </div>
+               <div n="6" type="item">
+                  <head>A. D. 6.</head>
+                  <p>
+                     <hi>The Gentl. ſayes,</hi> The Parliament hath declared the King to be in
+no condition to Governe, &amp;c.</p>
+                  <p>There is no end of your diſtinctions, I and you profeſs the Law,
+ſhew me Law for your diſtinctions, or letter, ſyllable, or line, in
+any age in the Bookes of the Law, that the King may in one time
+be in no condition to govern, and yet have the habit of governing,
+and another time he may <hi>(viz.)</hi> when the two Houſes will ſuffer
+him: the Law ſaith thus, <hi>Vbi lex non diſtinguit, non est diſtinguendum.</hi>
+                  </p>
+                  <p>Hee ſayes, <hi>The King is not barred from returning to His Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+(as he calls the two Houſes) he knowes the contray, the
+whole City knowes the contrary, <hi>No<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> juris conſulti ſumus ſacerdo<g ref="char:EOLhyphen"/>tes,</hi>
+(as <hi>Juſtinian</hi> the Emperour hath it, in the firſt Book of his <hi>In<g ref="char:EOLhyphen"/>ſtitutions)</hi>
+and therefore knowledge and truth ſhould come from
+our lips: Worthy and ingenious men will remember, and reflect
+upon that paſſage of that good and wiſe man <hi>Seneca, Non quaitur,
+ſed qua eundum;</hi> follow not the rayes of the Lawyers of the Houſe
+of Commons. God forgive them, I am ſure the King will if they
+be wiſe and ſeeke it in time.</p>
+               </div>
+               <div n="7" type="item">
+                  <pb n="20" facs="tcp:160300:12"/>
+                  <head>A D. 7.</head>
+                  <p>The Gentl. ſayes, <hi>We ſweare that the King is our ſupreame Gover<g ref="char:EOLhyphen"/>nor
+over all perſons and in all cauſes, &amp;c.</hi> Why hath he left out the
+word <hi>(only?)</hi> for the oath the Members now take, is, that KING
+<hi>Charles</hi> is now the only and ſupreme Governour in all cauſes,<note place="margin">
+                        <hi>5 Eliz.</hi> c. 1. <hi>Cawdreys</hi> caſe 5 pars, fol. 1.</note> over
+all perſons, and yet they keep their only Supreme Governour now
+in priſon, and act now in Parliament by vertue of their Priſoners
+Writ, and by a concurrent power in this Parliament, and by their
+own ſtrict right and property, (as the <hi>Gentl.</hi> affirmes in his an<g ref="char:EOLhyphen"/>ſwer)
+theſe things agree well with their Oath,<note place="margin">This Oath is allowed by the Common Law of the Land.</note> that the King is
+the only Supreme Governour in all cauſes, over all perſons; this
+Oath is taken now in the Parliament time, by all the Members of
+the Houſe of Commons, and is required by the Law to bee taken
+in all Parliaments, otherwiſe they have no power, nor colour to
+meddle with the publike affaires.</p>
+                  <p>This Oath being taken in Parliament, that <hi>the King is the only
+and Supreme Governour in all cauſes,</hi> then it followes in Parliament
+cauſes; <hi>ever all perſons,</hi> then over the two Houſes; let them keep
+this Oath, and we ſhall bee ſure of peace in the Land: and good
+Lawyers ought to deſire peace, both for the publike good and their
+private, and not diſhonour that Noble profeſſion, as many doe in
+this miſerable time.</p>
+                  <p>The Gent. ſayes, <hi>We do not ſweare that the King is above all Law,
+nor above the ſafety of his people;</hi> neither doe we ſo ſweare, but His
+Majeſty and we will ſweare the contrary, and have ſworne, and
+have made good, and will by Gods grace make good our Oath to
+the world, that the King is not above the Law, nor above the ſafe<g ref="char:EOLhyphen"/>ty
+of his people, the Law and the ſafety of his people are his ſafe<g ref="char:EOLhyphen"/>ty,
+his honour and his ſtrength.</p>
+               </div>
+               <div n="8" type="item">
+                  <head>A D. 8.</head>
+                  <p>The Gentl. concludes, <hi>That Acts of Parliament are not formally
+binding, nor compleat without the Kings aſſent, yet the Houſes have a
+virtuall power without the Kings particular aſſent, to doe things in or<g ref="char:EOLhyphen"/>der
+to publike Juſtice and ſafety, (viz.)</hi> In ſetting up the Exciſe, in
+raiſing and maintaining of Armies, in taxing the people at plea<g ref="char:EOLhyphen"/>with
+fifth and twentieth part, fifty Subſidies, Sequeſtrations,
+Lo<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes, Compoſitions, impriſoning the King, aboliſhing the
+<pb n="21" facs="tcp:160300:12"/>
+Common-Prayer-Book, ſelling the Churches Lands, <hi>&amp;c.</hi> all theſe
+are in order to publike Iuſtice and ſafety.</p>
+                  <p>
+                     <hi>Mr.</hi> H. P. <hi>you are of my profeſſion, I beſeech you, for the good
+of your Country, for the Honour of our Science, perſwade your
+ſelfe and others, as much as in you lyes, to believe and follow the
+monition and Councell of that memorable, reverend, and pro<g ref="char:EOLhyphen"/>foundly
+Learned in the Lawes and Cuſtoms of the Land, the Lord</hi>
+Coke, <hi>who writes as becomes a great and a learned Iudge of the
+Law (a perſon much magnified by the two Houſes) in theſe words:</hi>
+Peruſe over all Bookes,<note place="margin">3 Pars, Inſt <hi>p. 36.</hi>
+                     </note> Records and Hiſtories, and you ſhall finde a
+Principle in Law, a Rule in Reaſon, and a tryall in Experience, that
+Treaſon doth ever perduce fatall and finall deſtruction to the offender,
+and never attaines to the deſired end (two incidents inſeperable thereun<g ref="char:EOLhyphen"/>to)
+and therefore let all men abandon it, as the poyſonous bait of the de<g ref="char:EOLhyphen"/>vill,
+and follow the Precept in holy Scripture, SERVE GOD, HO<g ref="char:EOLhyphen"/>NO<g ref="char:V">Ʋ</g>R
+THE KING, AND HAVE NO COMPANY
+WITH THE SEDITIO<g ref="char:V">Ʋ</g>S.</p>
+               </div>
+            </div>
+            <div type="conclusion">
+               <head>CONCLUSION.</head>
+               <p>
+                  <hi>I</hi> Say againe, that without an Act of Oblivion, a Gracious gene<g ref="char:EOLhyphen"/>rall
+pardon from his Majeſty, the Arreares of the Souldiers
+payd, a favourable regard had to tender Conſciences, there will
+bee neither Truth nor Peace in this Land, nor any man ſecure of
+any thing he hath.</p>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
